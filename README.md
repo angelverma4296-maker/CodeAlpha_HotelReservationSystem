@@ -1,7 +1,4 @@
 # 🏨 Hotel Reservation System
-
-### CodeAlpha Java Programming Internship | Task 4
-
 A Java-based Hotel Reservation System developed as part of the **CodeAlpha Java Programming Internship**. This project simulates a hotel booking system where users can explore room availability, make reservations, view booking details, and manage cancellations.
 
 ## 📌 Project Overview
